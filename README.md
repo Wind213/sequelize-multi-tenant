@@ -20,6 +20,7 @@ with header
 ### Prerequisites
 
 nodejs >= 8.x
+
 mariadb >= 10.2.x
 
 ## License
